@@ -1,0 +1,6 @@
+{
+  "name": "WaveOS",
+  "description": "A premium, fully functional music streaming and discovery application featuring client-side Web Audio synthesizers, local storage state persistence, and AI-powered mood playlists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
